@@ -99,7 +99,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #4b9bdd;
+		background: #6f8da7;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -116,7 +116,7 @@ input, select, textarea {
 /* Type */
 
 	body, input, select, textarea {
-		color: #eca96b;
+		color: #ffb570;
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 16pt;
 		font-weight: 300;
@@ -2990,7 +2990,7 @@ input, select, textarea {
 		max-width: 80%;
 		height: 100%;
 		-webkit-overflow-scrolling: touch;
-		background: #7786dd;
+		background: #6972a5;
 		color: #e2b496;
 		cursor: default;
 		visibility: hidden;
